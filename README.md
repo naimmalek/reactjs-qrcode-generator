@@ -15,7 +15,7 @@ npm install --save reactjs-qrcode-generator
 ```tsx
 import React, { Component } from 'react'
 
-import ReactQrcode from 'reactjs-qrcode-generator'
+import {ReactQrcode} from 'reactjs-qrcode-generator'
 
 class Example extends Component {
   render() {
