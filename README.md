@@ -10,6 +10,8 @@
 npm install --save reactjs-qrcode-generator
 ```
 
+Demo https://naimmalek.github.io/reactjs-qrcode-generator-demo/
+
 ## Usage
 
 ```tsx
